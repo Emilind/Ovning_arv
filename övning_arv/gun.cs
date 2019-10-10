@@ -10,7 +10,7 @@ namespace övning_arv
     {
         public gun()
         {
-            name = "AK5";
+            //name = "AK5";
            
         }
     }

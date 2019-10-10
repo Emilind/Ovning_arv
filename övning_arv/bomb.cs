@@ -10,7 +10,7 @@ namespace övning_arv
     {
         public bomb()
         {
-            name = "Bomb";
+            minDamage = 
 
         }
 

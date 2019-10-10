@@ -10,7 +10,9 @@ namespace övning_arv
     {
         static void Main(string[] args)
         {
-
+            weapon c1 = new weapon();
+            Console.WriteLine(c1);
+            Console.ReadLine();
         }
     }
 }
