@@ -27,8 +27,8 @@ namespace övning_arv
 
         public string printStats(string printStats)
         {
-            Console.WriteLine(w1.name + w1.maxDamage + w1.minDamage);
-            Console.WriteLine(w2.name + w2.maxDamage + w1.minDamage);
+            Console.WriteLine( w1.maxDamage + w1.minDamage);
+            Console.WriteLine( w2.maxDamage + w1.minDamage);
             return printStats;
         }
 

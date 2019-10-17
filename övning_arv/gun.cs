@@ -11,7 +11,8 @@ namespace övning_arv
         public gun()
         {
             //name = "AK5";
-           
+            minDamage = 10;
+            maxDamage = 100;
         }
     }
 }

@@ -10,7 +10,8 @@ namespace övning_arv
     {
         public bomb()
         {
-            minDamage = 
+            minDamage = 10;
+            maxDamage = 100;
 
         }
 
